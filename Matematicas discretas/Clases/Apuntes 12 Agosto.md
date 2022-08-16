@@ -21,7 +21,7 @@ acerca de alguno de estos dos temas.
 ##### _Definición_
 
 Si un suceso $A$ ocurre de $m$ maneras, mientras que un suceso $B$ ocurre de $n$ maneras y ambas sucesos
-ocurren de manera simultanea. para llevar acabo este procedimiento puede utilizarse $mxn$maneras
+ocurren de manera simultanea. para llevar acabo este procedimiento puede utilizarse $mxn$ maneras
 
 - Si un suceso $A$ ocurre de $A$ maneras
 - Si un suceso $B$ ocurre de $B$ maneras

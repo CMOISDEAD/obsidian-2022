@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -130,11 +130,13 @@
   },
   "active": "8f07475399addc4f",
   "lastOpenFiles": [
-    "Pasted image 20220815202501.png",
-    "README.md",
     "Calculo diferencial/Indice.md",
-    "Matematicas discretas/Permutacion.md",
     "Estructura de datos/Indice.md",
-    "Matematicas discretas/Clases/Apuntes 12 Agosto.md"
+    "Matematicas discretas/Indice.md",
+    "Matematicas discretas/Permutacion.md",
+    "Matematicas discretas/Clases/Apuntes 12 Agosto.md",
+    "Infraestructura computacional/Apuntes 16 agosto.md",
+    "README.md",
+    "Pasted image 20220815202501.png"
   ]
 }
