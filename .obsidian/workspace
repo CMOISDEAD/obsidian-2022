@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculo diferencial/Indice.md",
+            "file": "README.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo diferencial/Indice.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo diferencial/Indice.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo diferencial/Indice.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,8 +130,10 @@
   },
   "active": "8f07475399addc4f",
   "lastOpenFiles": [
-    "Matematicas discretas/Permutacion.md",
+    "Pasted image 20220815202501.png",
+    "README.md",
     "Calculo diferencial/Indice.md",
+    "Matematicas discretas/Permutacion.md",
     "Estructura de datos/Indice.md",
     "Matematicas discretas/Clases/Apuntes 12 Agosto.md"
   ]
