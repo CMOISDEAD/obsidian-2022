@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "4221353388059c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f07475399addc4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Calculo diferencial/Indice.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "330c95e48db1cda5",
+    "type": "split",
+    "children": [
+      {
+        "id": "709e47b61ec63228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "389978f30ffd8c60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69647c3f3ddcc6c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67ed22e9c738a8ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41f359b744251d60",
+    "type": "split",
+    "children": [
+      {
+        "id": "cda52f91023ff66f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c548fb584490bb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calculo diferencial/Indice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71b74a4bcf6b93cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calculo diferencial/Indice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07230c35d4a8b57b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e89c6fc5e7b98a02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calculo diferencial/Indice.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f07475399addc4f",
+  "lastOpenFiles": [
+    "Matematicas discretas/Permutacion.md",
+    "Calculo diferencial/Indice.md",
+    "Estructura de datos/Indice.md",
+    "Matematicas discretas/Clases/Apuntes 12 Agosto.md"
+  ]
+}
