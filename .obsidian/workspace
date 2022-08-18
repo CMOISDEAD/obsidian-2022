@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "Estructura de datos/Clases/Apuntes 17 Agosto.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Estructura de datos/Clases/Apuntes 17 Agosto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Estructura de datos/Clases/Apuntes 17 Agosto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Estructura de datos/Clases/Apuntes 17 Agosto.md"
               }
             }
           }
@@ -130,13 +130,14 @@
   },
   "active": "8f07475399addc4f",
   "lastOpenFiles": [
-    "Calculo diferencial/Indice.md",
     "Estructura de datos/Indice.md",
+    "Estructura de datos/Clases/Apuntes 17 Agosto.md",
+    "Infraestructura computacional/Apuntes 16 agosto.md",
+    "README.md",
+    "Calculo diferencial/Indice.md",
     "Matematicas discretas/Indice.md",
     "Matematicas discretas/Permutacion.md",
     "Matematicas discretas/Clases/Apuntes 12 Agosto.md",
-    "Infraestructura computacional/Apuntes 16 agosto.md",
-    "README.md",
     "Pasted image 20220815202501.png"
   ]
 }

@@ -2,5 +2,8 @@
   "cssTheme": "Primary",
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrainsMono Nerd Font",
-  "monospaceFontFamily": "JetBrainsMonoMedium NF"
+  "monospaceFontFamily": "JetBrainsMonoMedium NF",
+  "translucency": false,
+  "baseFontSizeAction": false,
+  "theme": "obsidian"
 }

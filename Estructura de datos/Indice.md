@@ -9,6 +9,7 @@
   4. Linked lists (sencillas o dobles).
   5. Colas y Pilas.
   6. Colas de prioridad.
+  
 *Unidad 2*: Estructura no limitada.
   1. Arboles binarios y sus operaciones.
   2. Arboles AUL.
@@ -19,4 +20,4 @@
   1. Concepto de grafos.
   2. Grafos dirigidos y no dirigidos.
   3. Búsqueda de grafos.
-  4. Algoritmo dijkstra y kruskal.
+  4. Algoritmo Dijkstra y Kruskal.
