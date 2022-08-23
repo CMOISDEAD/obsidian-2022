@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Solarized",
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMonoMedium NF",
   "translucency": false,
-  "baseFontSizeAction": false,
-  "theme": "obsidian"
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "baseFontSize": 19
 }
